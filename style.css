@@ -23,7 +23,7 @@ font-family: sans-serif;
 width: 560px;
 color: #000;
 font-size: 20px;
-height  : 150px
+height  : 150px;
 text-decoration: none;
 padding: 12px;
 cursor: pointer;
@@ -91,7 +91,7 @@ justify-content: center;
 
 }
 
-.btn:hover, .btn:focus, .btn: active{
+.btn:hover, .btn:focus, .btn:active{
 box-shadow: 0 20px rgba(0, 0, 0, 0.5);
 -webkit-transform: scale(1.1);
 transform: scale(1.1);
